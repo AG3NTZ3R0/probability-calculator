@@ -1,3 +1,7 @@
+# Probability Calculator
+
+This is an original work inspired by one of the five required projects within the freeCodeCamp() Scientific Computing with Python certification. I am responsible for writing all of the code within the <i>prob_calculator.py</i> file. The test code was supplied by freeCodeCamp() in order to analyze the required work. Below, you will see the prompt for this programming assignment. 
+
 ### Assignment
 
 Suppose there is a hat containing 5 blue balls, 4 red balls, and 2 green balls. What is the probability that a random draw of 4 balls will contain at least 1 red ball and 2 green balls? While it would be possible to calculate the probability using advanced mathematics, an easier way is to write a program to perform a large number of experiments to estimate an approximate probability.
